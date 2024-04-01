@@ -7,7 +7,6 @@ const Recommended = ({handleClick}) => {
     <div className=''>
       <h2 className='recommended-title'>Recommended</h2>
       <div className="recommended-flex">
-        <button className="btns">All Products</button>
         <Button onClickHandler={handleClick} value="" title= "All Products"/>
         <Button onClickHandler={handleClick} value="Nike" title= "Nike"/>
         <Button onClickHandler={handleClick} value="Puma" title= "Puma"/>
