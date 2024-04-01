@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
+nav{
+    display: flex;
+    border-bottom: 2px solid #f3f3f3;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 85vw; */
+    padding: 20px;
+    z-index: 999;
+    margin-left: 15%;
+    overflow-x: hidden;
+    background-color: #758173;
+    
+}
+
+.quote h1{
+    font-family: "Workbench", sans-serif;
+    color: rgb(11, 12, 9);
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 13,
+      "SCAN" 6;
+    cursor: pointer;
+    
+}
+
+input{
+    padding: 12px 20px;
+    border: none;
+    background: #f7f6f6;
+    outline: none;
+    margin-right: 20px;
+    border-radius: 5px;
+    position: relative;
+    width: 14rem;
+}
+
+.nav-icons{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 2rem;
+    color: #494949;
+}
