@@ -48,7 +48,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/41M54ztS6IL._AC_SY625._SX._UX._SY._UY_.jpg",
-    title: "Flat Slip On Pumps",
+    title: "Vans Flat Slip On",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -59,7 +59,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71zKuNICJAL._AC_UX625_.jpg",
-    title: "Knit Ballet Flat",
+    title: "Adidas Knit Ballet Flat",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -71,7 +71,7 @@ const data = [
 
   {
     img: "https://m.media-amazon.com/images/I/61V9APfz97L._AC_UY695_.jpg",
-    title: "Loafer Flats",
+    title: "Vans Loafer Flats",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -107,7 +107,7 @@ const data = [
 
   {
     img: "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
-    title: "PUMA BLACK-OCE",
+    title: "Puma Neon green ",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -118,7 +118,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71E75yRwCDL._AC_UY575_.jpg",
-    title: "Pacer Future Sneaker",
+    title: "Puma Pacer Future Sneaker",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -129,7 +129,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71jeoX0rMBL._AC_UX575_.jpg",
-    title: "Unisex-Adult Super",
+    title: "Puma Unisex-Adult Super",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -140,7 +140,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/61TM6Q9dvxL._AC_UX575_.jpg",
-    title: "Roma Basic Sneaker",
+    title: "Puma Basic Sneaker",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -151,7 +151,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/7128-af7joL._AC_UY575_.jpg",
-    title: "Pacer Future Doubleknit",
+    title: "Puma Pacer Future Doubleknit",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -163,7 +163,7 @@ const data = [
 
   {
     img: "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
-    title: "Fusion Evo Golf Shoe",
+    title: "Puma Fusion Evo Golf Shoe",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -174,7 +174,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/719gdz8lsTS._AC_UX575_.jpg",
-    title: "Rainbow Chex Skate",
+    title: "Vans Rainbow Chex Skate",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -185,7 +185,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71gpFHJlnoL._AC_UX575_.jpg",
-    title: "Low-Top Trainers",
+    title: "Vans Low-Top Trainers",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -207,7 +207,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/61N4GyWcHPL._AC_UY575_.jpg",
-    title: "Classic Bandana Sneakers",
+    title: "Nike Classic Bandana Sneakers",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -218,7 +218,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/61bncQ44yML._AC_UX695_.jpg",
-    title: "Chunky High Heel",
+    title: "Vans Chunky High Heel",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -229,7 +229,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/71czu7WgGuL._AC_UY695_.jpg",
-    title: "Slip On Stiletto High Heel",
+    title: "Puma Stiletto High Heel",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -240,7 +240,7 @@ const data = [
   },
   {
     img: "https://m.media-amazon.com/images/I/61men05KRxL._AC_UY625_.jpg",
-    title: "DREAM PAIRS Court Shoes",
+    title: "Vans Pink heels",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -263,7 +263,7 @@ const data = [
 
   {
     img: "https://m.media-amazon.com/images/I/51PGWTXgf-L._AC_UY625_.jpg",
-    title: "Low Mid Block Heels",
+    title: "Vans Low Mid Block Heels",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
